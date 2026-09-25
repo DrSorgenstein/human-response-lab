@@ -1,0 +1,11 @@
+controlled_contrast,absolute_risk_difference_percentage_points
+Trauma vulnerability only,7.9940
+Cognitive bias only,5.9560
+Dissonance only,1.9450
+All three combined,21.0465
+"Natural disaster, factors off",10.0350
+"Human-caused disaster, factors off",14.0725
+Solidarity during natural disaster,-4.0790
+Solidarity during human-caused disaster,-4.0375
+Placebo Z intervention,0.0000
+Excess of all three over sum of separate effects,5.1515

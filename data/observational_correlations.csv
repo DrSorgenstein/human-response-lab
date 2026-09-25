@@ -1,0 +1,8 @@
+factor,Pearson_r_with_outcome,status
+background C,0.162168,synthetic observational correlation
+trauma vulnerability T,0.159075,synthetic observational correlation
+bias B,0.132802,synthetic observational correlation
+dissonance D,0.077124,synthetic observational correlation
+placebo Z,0.101469,synthetic observational correlation
+natural event,0.065047,synthetic observational correlation
+human-caused event,0.086843,synthetic observational correlation
